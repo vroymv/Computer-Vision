@@ -62,9 +62,11 @@ The server handles request from both the micro controller and the front end clie
 
 👉 **A Web Interface To Try Image Analysis**: A web interface that let's users try out the image analysis capabilites
 
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/try.png?alt=media&token=baa55660-467c-4a55-a2e5-f87b2cfeec69" alt="Try page">
+
 👉 **Database View**: A page that shows all the images uploaded and analysed
 
-<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/image4.png?alt=media&token=93e748ff-d4c0-4767-b232-2e93092ce488" alt="Project Banner">
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/image4.png?alt=media&token=93e748ff-d4c0-4767-b232-2e93092ce488" alt="Database">
 
 <h3>Hardware</h3>
 
