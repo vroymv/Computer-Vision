@@ -33,6 +33,7 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
+7. ⚙️ [Hardware Output](#hardwareoutput)
 
 ## 🚨 About
 
@@ -195,4 +196,9 @@ Copy and paste the arduino code. Note that the esp32 board can only make request
 
 Make sure to install all the used arduino libraries
 
+## <a name="hardwareoutput">⚙️ Hardware Output</a>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/output1.jpg?alt=media&token=d5dabd76-d357-43e5-884f-2a963a73a49d" alt="Output">
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/output2.jpg?alt=media&token=9ae58a67-a9c4-491a-a7a2-0bf1b39ab2d6" alt="Output">
+<img src="https://firebasestorage.googleapis.com/v0/b/karizmatik-14de4.appspot.com/o/output3.jpg?alt=media&token=8b2b6b5e-67ee-4f5e-bb75-66fa184fde62" alt="Output">
 #
