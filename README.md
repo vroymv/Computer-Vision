@@ -36,7 +36,7 @@
 
 ## 🚨 About
 
-This repository contains server and client side code for the computer vision project. Arduino hardware code is not included.
+This repository contains server and client side code for the computer vision project. Arduino hardware code is found in the ArduinoCode.txt file.
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -183,5 +183,14 @@ const customLabelsInput = {
 ## <a name="links">🔗 Links</a>
 
 Project Report can be found here(https://docs.google.com/document/d/1Hk_jP9xNo4rFc2SJXEM7LRzSfWKg_CJxbDyMiPxdj7I/edit?usp=sharing)
+
+## <a name="more">🚀 More</a>
+
+**Setting Up Arduino**
+Visit the project report above to get the project flow charts, data flow diagram and circuitry.
+
+Copy and paste the arduino code. Note that the esp32 board can only make requests to a live hosted server.
+
+Make sure to install all the used arduino libraries
 
 #
