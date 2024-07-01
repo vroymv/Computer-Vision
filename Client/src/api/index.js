@@ -12,10 +12,10 @@ async function sendImage(imageData) {
     bufferView[i] = binaryString.charCodeAt(i);
   }
 
-//
+  //
 
   try {
-    const response = await fetch("https://shielded-savannah-03474-2136069c7f29.herokuapp.com", {
+    const response = await fetch("http://localhost:3000/", {
       method: "POST",
       headers: {
         "Content-Type": "image/jpeg",
@@ -36,21 +36,21 @@ async function sendImage(imageData) {
 
 //
 
-async function getDatabase(){
+async function getDatabase() {
   try {
     try {
-      const response = await fetch("https://shielded-savannah-03474-2136069c7f29.herokuapp.com/database");
+      const response = await fetch("http://localhost:3000/database");
 
       if (!response.ok) {
         throw new Error("Network response was not ok");
       }
-  
+
       const res = await response.json();
       return res;
     } catch (err) {
       console.log(err);
     }
-  }catch(error){
+  } catch (error) {
     console.log(error);
   }
 }
